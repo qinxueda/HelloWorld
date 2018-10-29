@@ -4,8 +4,8 @@
  * 
 */
 
-
-
+#include <iostream>
+#include <string.h>
 #include "Shape.h"
 #include "SingleObject.h"
 using namespace std;
