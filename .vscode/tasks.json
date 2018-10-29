@@ -6,10 +6,9 @@
         {
             "label": "newMain",
             "type": "shell",
-            "command": "g++ -o newMain.exe",
+            "command": "g++ -o mainMy -g main.cpp",
             "args": [
-                "-g",
-                "main.cpp"
+                
             ],
             "group": {
                 "kind": "build",

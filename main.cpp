@@ -3,6 +3,7 @@
  * 验证gitHub 远端密码是否已经保存
  * 
 */
+
 #include <iostream>
 #include <string.h>
 #include "Shape.h"
@@ -28,6 +29,7 @@ int main()
 {
 	// applayFactory();
 	applaySinglePattern();
+	cout<<"test in main function"<<endl;
 	return 0;
 }
 void applayFactory(){
