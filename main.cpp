@@ -1,6 +1,6 @@
 /**
  * 
- * 
+ * 验证gitHub 远端密码是否已经保存
  * 
 */
 #include <iostream>
