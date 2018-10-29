@@ -18,6 +18,12 @@ void applayFactory();
  * 
  */
 void applaySinglePattern();
+/**
+ * @brief 
+ * 
+ * @param n 
+ */
+void TestSnippets(int n);
 int main()
 {
 	// applayFactory();
@@ -44,4 +50,12 @@ void applaySinglePattern(){
 	if(singleObj1 == singleObj2){
 		cout<<"SingleObject Pattern Demo "<<endl;
 	}
+}
+void TestSnippets(int n){
+	
+	for(size_t i = 0; i < n; i++)
+	{
+		cout<<i<<endl;
+	}
+	
 }
