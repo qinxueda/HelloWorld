@@ -8,7 +8,15 @@
 #include "Shape.h"
 #include "SingleObject.h"
 using namespace std;
+/**
+ * @brief 
+ * 
+ */
 void applayFactory();
+/**
+ * @brief 
+ * 
+ */
 void applaySinglePattern();
 int main()
 {
