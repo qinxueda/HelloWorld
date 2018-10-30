@@ -1,6 +1,7 @@
 /**
  * 
  * 验证gitHub 远端密码是否已经保存
+ * 验证gitHub 远端编辑文件，之前在master分支可以编辑但是不能“commit changes”，本次在非master分支，可以编辑并保存
  * 
 */
 
